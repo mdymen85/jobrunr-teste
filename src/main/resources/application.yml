@@ -1,0 +1,9 @@
+org:
+  jobrunr:
+    background-job-server:
+      enabled: true
+    dashboard:
+      enabled: true
+
+server:
+  port: 8081
